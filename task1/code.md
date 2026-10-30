@@ -31,7 +31,7 @@ flowchart TD
     D --> H
     H --> I([Stop])
 
-##5. SAMPLE INPUT
+## 5. SAMPLE INPUT
 
 Enter number of students: 3
 Name: Ravi
