@@ -30,7 +30,7 @@ flowchart TD
     G --> H[Display scholarship list]
     D --> H
     H --> I([Stop])
-
+```
 ## 5. SAMPLE INPUT
 
 Enter number of students: 3
