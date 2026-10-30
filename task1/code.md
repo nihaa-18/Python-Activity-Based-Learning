@@ -29,7 +29,7 @@ G --> H[Display Results]
 E --> H
 H --> I([STOP])
 ```
-## 5. SAMPLE INPUT
+## 4. SAMPLE INPUT
 Enter number of students: 3
 Name: Ravi
 Marks Subject Attendance Income: 85 60 90 150000
@@ -37,8 +37,8 @@ Name: Sita
 Marks Subject Attendance Income: 90 70 95 100000
 Name: Rani
 Marks Subject Attendance Income: 65 55 80 120000
-## 6. SAMPLE OUTPUT
+## 5. SAMPLE OUTPUT
 Sita Scholarship Rank: 1
 Ravi Scholarship Rank: 2
-## 7. CONCLUSION
+## 6. CONCLUSION
 This program selects eligible students based on marks, attendance and family income, ranks them and displays scholarship results.
