@@ -27,18 +27,18 @@ F --> G[Calculate net salary]
 G --> H[/Display salary statement/]
 H --> I([Stop])
 ```
-## 4. Sample Input
+## 5. Sample Input
 
 Enter basic salary: 20000
 Enter overtime amount: 2000
 Enter incentive: 1000
 
-## 5. Sample Output
+## 6. Sample Output
 
 Gross: 27000.0
 Deduction: 1700.0
 Net Salary: 25300.0
 
-## 6. Conclusion
+## 7. Conclusion
 
 This program calculates gross salary, deductions and net salary to generate an employee payroll statement.
