@@ -1,9 +1,9 @@
 University Scholarship Allocation System Using Python
 
-##1. PROBLEM STATEMENT
+## 1. PROBLEM STATEMENT
 To evaluate scholarship applicants based on aggregate marks, subject-wise minimum marks, attendance and family income. Select eligible students, rank them and resolve ties using predefined rules.
 
-##2. ALGORITHM
+## 2. ALGORITHM
 1. Start.
 2. Enter student details.
 3. Check aggregate marks.
