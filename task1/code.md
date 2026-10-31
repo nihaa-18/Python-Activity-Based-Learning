@@ -1,4 +1,4 @@
-University Scholarship Allocation System Using Python
+# University Scholarship Allocation System Using Python
 
 ## 1. PROBLEM STATEMENT
 To evaluate scholarship applicants based on aggregate marks, subject-wise minimum marks, attendance and family income. Select eligible students, rank them and resolve ties using predefined rules.
@@ -29,7 +29,7 @@ G --> H[Display Results]
 E --> H
 H --> I([STOP])
 ```
-## 4. SAMPLE INPUT
+## 5. SAMPLE INPUT
 Enter number of students: 3
 Name: Ravi
 Marks Subject Attendance Income: 85 60 90 150000
@@ -37,8 +37,6 @@ Name: Sita
 Marks Subject Attendance Income: 90 70 95 100000
 Name: Rani
 Marks Subject Attendance Income: 65 55 80 120000
-## 5. SAMPLE OUTPUT
+## 6. SAMPLE OUTPUT
 Sita Scholarship Rank: 1
 Ravi Scholarship Rank: 2
-## 6. CONCLUSION
-This program selects eligible students based on marks, attendance and family income, ranks them and displays scholarship results.
