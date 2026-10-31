@@ -1,4 +1,3 @@
-## 4. SOURCE CODE 
 
 n = int(input("Enter number of students: "))
 s = []
