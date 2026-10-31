@@ -1,4 +1,4 @@
-Employee Payroll and Deduction Analysis Using Python
+# Employee Payroll and Deduction Analysis Using Python
 
 ## 1. Problem Statement
 
@@ -39,6 +39,3 @@ Gross: 27000.0
 Deduction: 1700.0
 Net Salary: 25300.0
 
-## 7. Conclusion
-
-This program calculates gross salary, deductions and net salary to generate an employee payroll statement.
