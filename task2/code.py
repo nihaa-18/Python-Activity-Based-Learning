@@ -1,4 +1,3 @@
-## 4. Source Code 
 n = int(input("Enter months: "))
 b = []
 for i in range(n):
