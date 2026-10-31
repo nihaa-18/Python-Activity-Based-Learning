@@ -1,4 +1,4 @@
-Progressive Electricity Billing System Using Python
+# Progressive Electricity Billing System Using Python
 
 ## 1. Problem Statement
 
@@ -33,18 +33,15 @@ I --> K[/Display bills/]
 J --> K
 K --> L([Stop])
 ```
-## 4. Sample Input
+## 5. Sample Input
 
 Enter months: 2
 Enter units: 80
 Enter units: 150
 
-## 5. Sample Output
+## 6. Sample Output
 
 Bill: 249.38
 Bill: 577.5
 Unusual increase!
 
-## 6. Conclusion
-
-This program calculates household electricity bills and compares monthly expenses to identify unusual increases.
