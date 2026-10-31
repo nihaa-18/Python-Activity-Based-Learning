@@ -19,15 +19,15 @@ To evaluate scholarship applicants based on aggregate marks, subject-wise minimu
 
 ```mermaid
 flowchart TD
-A([START]) --> B[Enter Student Details]
-B --> C{Check Eligibility}
-C -->|YES| D[Eligible Students]
-C -->|NO| E[Not Eligible]
-D --> F[Rank Students]
-F --> G[Resolve Ties Using Attendance]
-G --> H[Display Results]
-E --> H
-H --> I([STOP])
+    A([START]) --> B[Enter Student Details]
+    B --> C{Check Eligibility}
+    C -->|YES| D[Eligible Students]
+    C -->|NO| E[Not Eligible]
+    D --> F[Rank Students]
+    F --> G[Resolve Ties Using Attendance]
+    G --> H[Display Results]
+    E --> H
+    H --> I([STOP])
 ```
 ## 5. SAMPLE INPUT
 Enter number of students: 3
