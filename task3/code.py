@@ -1,4 +1,3 @@
-## 4. Source Code 
 
 basic = float(input("Enter basic salary: "))
 allow = basic * 0.20
