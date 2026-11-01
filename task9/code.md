@@ -7,11 +7,10 @@ To develop a Courier Charge Optimization system that calculates delivery charges
 4. Enter delivery urgency.
 5. Check parcel restrictions.
 6. Calculate courier charges.
-7.
-8. Compare available service options.
-9. Select the eligible service with the lowest charge.
-10. Display delivery charges and selected service.
-11. Stop.
+7.Compare available service options.
+8. Select the eligible service with the lowest charge.
+9. Display delivery charges and selected service.
+10. Stop.
 ## 3. FLOWCHART
 ```mermaid
 flowchart TD
