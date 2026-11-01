@@ -15,9 +15,7 @@ To evaluate scholarship applicants based on aggregate marks, subject-wise minimu
 9. Display results.
 10. Stop.
 
-## 3. FLOWCHART
-
-```mermaid
+## 3. FLOWCHART(MERMAID)
 flowchart TD
     A([START]) --> B[Enter Student Details]
     B --> C{Check Eligibility}
@@ -28,7 +26,6 @@ flowchart TD
     G --> H[Display Results]
     E --> H
     H --> I([STOP])
-```
 ## 5. SAMPLE INPUT
 Enter number of students: 3
 Name: Ravi
